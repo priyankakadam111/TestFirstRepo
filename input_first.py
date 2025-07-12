@@ -7,3 +7,5 @@ if age >18:
     print('You r eligible')
 else:
     print('you r not eligible')
+
+print('The end of else')
